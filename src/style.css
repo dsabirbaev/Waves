@@ -1,0 +1,22 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+   
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer_bg{
+    background-image: url(./assets/images/footer.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
