@@ -20,3 +20,14 @@ body{
     background-repeat: no-repeat;
     background-position: top;
 }
+
+.footer_bg--btn{
+    background-image: url(./assets/images/footer/footer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 1075px;
+    position: absolute;
+    top: -175px;
+    left: 50%;
+    transform: translateX(-50%);
+}
