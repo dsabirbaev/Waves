@@ -18,6 +18,7 @@ body{
 .footer_bg{
     background-image: url(./assets/images/footer.png);
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: top;
 }
 
